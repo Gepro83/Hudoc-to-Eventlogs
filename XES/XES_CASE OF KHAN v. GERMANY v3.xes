@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log xes.version="1.0" xes.features="" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="DEFAULT"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="DEFAULT"/>
+		<date key="time:timestamp" value="1970-01-01T01:00:00.000+01:00"/>
+	</global>
+	
+<trace>
+
+
+<event>
+<string key="resource" value="applicant and her husband"/>
+<string key="concept:name" value="arrived in Germany"/>
+<date key="time:timestamp" value="1991-12-01T00:00:00.000+01:00"/>
+<string key="sentence" value="In December 1991 the applicant and her husband, a Pakistani national, arrived in Germany."/>
+</event>
+
+<event>
+<string key="resource" value="application"/>
+<string key="concept:name" value="was refused"/>
+<date key="time:timestamp" value="1993-10-01T00:00:00.000+01:00"/>
+<string key="sentence" value="In October 1993 the applicant’s own application for the same status was refused."/>
+</event>
+
+<event>
+<string key="resource" value="applicant"/>
+<string key="concept:name" value="was granted a temporary residence permit"/>
+<date key="time:timestamp" value=" 1994-06-16T00:00:00.000+01:00"/>
+<string key="sentence" value="On 16 June 1994 she was granted a temporary residence permit as the spouse of a refugee."/>
+</event>
+
+<event>
+<string key="resource" value="applicant"/>
+<string key="concept:name" value="gave birth to a son"/>
+<date key="time:timestamp" value="1995-02-11T00:00:00.000+01:00"/>
+<string key="sentence" value="On 11 February 1995 she gave birth to a son."/>
+</event>
+
+<event>
+<string key="resource" value="couple"/>
+<string key="concept:name" value="separated"/>
+<date key="time:timestamp" value="1998-01-01T00:00:00.000+01:00"/>
+<string key="sentence" value="In 1998 the couple separated."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant"/>
+	<string key="concept:name" value="was awarded a permanent residence permit"/>
+	<date key="time:timestamp" value="2001-09-07T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 7 September 2001 she was awarded a permanent residence permit."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant"/>
+	<string key="concept:name" value="lost job"/>
+	<date key="time:timestamp" value="2004-05-01T00:00:00.000+01:00"/>
+	<string key="sentence" value="In March 2004 the applicant lost her job on account of behavioural issues."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant"/>
+	<string key="concept:name" value="was placed in pre-trial detention"/>
+	<date key="time:timestamp" value="2004-05-31T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 31 May 2004 the applicant was placed in pre-trial detention for having killed a neighbour."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant and her husband"/>
+	<string key="concept:name" value="divorced"/>
+	<date key="time:timestamp" value="2004-07-01T00:00:00.000+01:00"/>
+	<string key="sentence" value="In July 2004 she and her husband divorced."/>
+</event>
+
+<event>
+	<string key="resource" value="family court"/>
+	<string key="concept:name" value="transferred custody rights over applicant's son to applicant's former husband"/>
+	<date key="time:timestamp" value="2005-01-01T00:00:00.000+01:00"/>
+	<string key="sentence" value="In 2005 a family court transferred custody rights over her son to her former husband and ruled that the child should live with his father from then on."/>
+</event>
+
+<event>
+	<string key="resource" value="Giessen Regional Court"/>
+	<string key="concept:name" value="ordered the applicant’s permanent confinement in a psychiatric hospital"/>
+	<date key="time:timestamp" value="2005-07-13T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 13 July 2005 the Giessen Regional Court ordered the applicant’s permanent confinement in a psychiatric hospital."/>
+</event>
+
+<event>
+	<string key="resource" value="Waldeck-Frankenberg administrative authority"/>
+	<string key="concept:name" value="ordered the applicant’s expulsion"/>
+	<date key="time:timestamp" value="2009-06-04T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 4 June 2009 the Waldeck-Frankenberg administrative authority ordered the applicant’s expulsion."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant"/>
+	<string key="concept:name" value="was granted certain privileges"/>
+	<date key="time:timestamp" value="2009-11-01T00:00:00.000+01:00"/>
+	<string key="sentence" value="In November 2009 the applicant was granted certain privileges in the hospital, such as occasional days of leave, and subsequently, after an improvement in her mental health, she started working full time in the hospital’s laundry department."/>
+</event>
+
+<event>
+	<string key="resource" value="Administrative Court"/>
+	<string key="concept:name" value="dismissed the applicant’s appeal"/>
+	<date key="time:timestamp" value="2011-03-01T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 1 March 2011 the Administrative Court dismissed the applicant’s appeal."/>
+</event>
+
+<event>
+	<string key="resource" value="Hesse Administrative Court of Appeal"/>
+	<string key="concept:name" value="refused the applicant leave to appeal"/>
+	<date key="time:timestamp" value="2011-05-23T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 23 May 2011 the Hesse Administrative Court of Appeal refused the applicant leave to appeal, noting that the Administrative Court had taken into account all the relevant facts of the case."/>
+</event>
+
+<event>
+	<string key="resource" value="Hesse Administrative Court of Appeal"/>
+	<string key="concept:name" value="dismissed a complaint by the applicant"/>
+	<date key="time:timestamp" value="2011-08-02T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 2 August 2011 it dismissed a complaint by the applicant of a breach of the right to be heard, in which she had, in particular, argued that the court had not given proper consideration to her submissions on her improved state of health, the death of her sister in Pakistan and the living conditions she would face in the event of her return there."/>
+</event>
+
+<event>
+	<string key="resource" value="Marburg Regional Court"/>
+	<string key="concept:name" value="suspended the implementation of the hospital treatment order"/>
+	<date key="time:timestamp" value="2011-11-24T00:00:00.000+01:00"/>
+	<string key="sentence" value="Previously, on 24 November 2011, the Marburg Regional Court, on the recommendation of a medical expert, had suspended the implementation of the hospital treatment order and released the applicant on probation (Führungsaufsicht) for a five-year period."/>
+</event>
+
+<event>
+	<string key="resource" value="Marburg Regional Court"/>
+	<string key="concept:name" value="released the applicant on probation"/>
+	<date key="time:timestamp" value="2011-11-24T00:00:00.000+01:00"/>
+	<string key="sentence" value="Previously, on 24 November 2011, the Marburg Regional Court, on the recommendation of a medical expert, had suspended the implementation of the hospital treatment order and released the applicant on probation (Führungsaufsicht) for a five-year period."/>
+</event>
+
+<event>
+	<string key="resource" value="Federal Constitutional Court"/>
+	<string key="concept:name" value="dismissed a constitutional complaint by the applicant"/>
+	<date key="time:timestamp" value="2011-12-13T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 13 December 2011 the Federal Constitutional Court, without providing reasons, dismissed a constitutional complaint by the applicant (no. 2 BvR 1923/11)."/>
+</event>
+
+<event>
+	<string key="resource" value="case"/>
+	<string key="concept:name" value="originated"/>
+	<date key="time:timestamp" value="2012-06-19T00:00:00.000+01:00"/>
+	<string key="sentence" value="The case originated in an application (no. 38030/12) against the Federal Republic of Germany lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Pakistani national, Ms Farida Kathoon Khan (“the applicant”), on 19 June 2012."/>
+</event>
+
+<event>
+	<string key="resource" value="Chamber"/>
+	<string key="concept:name" value="delivered a judgment"/>
+	<date key="time:timestamp" value="2015-04-23T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 23 April 2015 a Chamber of that Section, composed of Mark Villiger, President, Angelika Nußberger, Boštjan Zupan?i?, Ganna Yudkivska, André Potocki, Helena Jäderblom, Aleš Pejchal, judges, and also Claudia Westerdiek, Section Registrar, delivered a judgment in which it unanimously declared the complaint under Article 8 of the Convention admissible and the remainder of the application inadmissible, and found, by six votes to one, that the implementation of the expulsion order against the applicant would not give rise to a violation of Article 8 of the Convention."/>
+</event>
+
+<event>
+	<string key="resource" value="Chamber"/>
+	<string key="concept:name" value="held that there had been no violation of Article 8 of the Convention"/>
+	<date key="time:timestamp" value="2015-04-23T00:00:00.000+01:00"/>
+	<string key="sentence" value="In its judgment of 23 April 2015 the Chamber held, by six votes to one, that there had been no violation of Article 8 of the Convention (see paragraph 4 above)."/>
+</event>
+
+<event>
+	<string key="resource" value="applicant"/>
+	<string key="concept:name" value="requested that the case be referred to the Grand Chamber"/>
+	<date key="time:timestamp" value="2015-07-23T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 23 July 2015 the applicant requested that the case be referred to the Grand Chamber under Article 43 of the Convention."/>
+</event>
+
+<event>
+	<string key="resource" value="Grand Chamber"/>
+	<string key="concept:name" value="acceded to that request"/>
+	<date key="time:timestamp" value="2015-09-14T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 14 September 2015 a panel of the Grand Chamber acceded to that request."/>
+</event>
+
+<event>
+	<string key="resource" value="Chamber judgment"/>
+	<string key="concept:name" value="acceded to the applicant’s request"/>
+	<date key="time:timestamp" value="2015-09-14T00:00:00.000+01:00"/>
+	<string key="sentence" value="Following the Chamber judgment, on 14 September 2015 a panel of the Grand Chamber acceded to the applicant’s request for the case to be referred to the Grand Chamber (see paragraph 5 above)."/>
+</event>
+
+<event>
+	<string key="resource" value="Government"/>
+	<string key="concept:name" value="gave an assurance"/>
+	<date key="time:timestamp" value="2016-01-07T00:00:00.000+01:00"/>
+	<string key="sentence" value="In their observations of 7 January 2016 on the merits of the case, the Government, in their own name and on behalf of the Land of Hesse, which is responsible for deciding on the applicant’s residence rights, gave an assurance that before taking any measures for the applicant’s removal, the German administrative authorities would issue a new expulsion order taking account of the time which had passed."/>
+</event>
+
+<event>
+	<string key="resource" value="Government"/>
+	<string key="concept:name" value="requested that the Court strike the application out of its list"/>
+	<date key="time:timestamp" value="2016-02-09T00:00:00.000+01:00"/>
+	<string key="sentence" value="On 9 February 2016 the Government officially requested that the Court strike the application out of its list of cases in accordance with Article 37 § 1 (b) of the Convention. "/>
+</event>
+
+<event>
+	<string key="resource" value="latest measure"/>
+	<string key="concept:name" value="was ordered"/>
+	<date key="time:timestamp" value="2016-03-22T00:00:00.000+01:00"/>
+	<string key="sentence" value="The latest of these measures, which are generally valid for six months, was ordered on 22 March 2016 and is valid until 17 February 2017."/>
+</event>
+
+</trace>
+</log>
